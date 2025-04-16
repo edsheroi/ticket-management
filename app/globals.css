@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.font-main-title {
+    font-weight: 200;
+    font-size: 1.5rem;
+}
